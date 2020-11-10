@@ -5,4 +5,4 @@
 - HTML básico
 - CSS básico
 
-![img] (instagram-perfil.png) 
+![img](instagram-perfil.png) 
