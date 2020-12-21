@@ -1,6 +1,6 @@
 :root{
-    --vermelho: #E50914;
-    --preta: #141414;
+    --vermelho:#E50914;
+    --preta:#141414;
 }
 
 *{
@@ -15,7 +15,13 @@ body{
     
 }
 
-header.container{
-   
+header .container{
 
+   
+}
+
+header .Logo{
+    color: var (--vermelho);
+    font-family: 'Arial Black', Times;
+    font-size: 40px;
 }
